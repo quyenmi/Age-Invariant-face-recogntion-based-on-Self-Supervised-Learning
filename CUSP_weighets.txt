@@ -1,0 +1,7 @@
+Because the weights we use require too much storage space, we cannot attach them inside this file. 
+
+Please copy the link below and paste it into your browser to download and place it into code folder.
+
+Link: https://drive.google.com/drive/folders/14Hjh6VT58Hm0FK1BEncNIqvesqdmcpZh?usp=share_link
+
+Sorry for the inconvenience!
